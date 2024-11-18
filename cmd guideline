@@ -1,0 +1,15 @@
+yarn init
+yarn add express
+yarn add @apollo/server graphql
+yarn add body-parser cors
+node index.js
+http://localhost:8000/graphql
+
+
+yarn cache clean
+yarn add react-scripts@5.0.1
+yarn start
+
+
+npm install -g vercel
+vercel dev
