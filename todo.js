@@ -119,11 +119,4 @@ exports.TODOS = [
     title: "ullam nobis libero sapiente ad optio sint",
     completed: true,
   },
-  {
-    userId: 2,
-    id: 21,
-    title: "suscipit repellat esse quibusdam voluptatem incidunt",
-    completed: false,
-  },
-  
 ];
